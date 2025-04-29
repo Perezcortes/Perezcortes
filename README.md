@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Hola+%F0%9F%91%8B%2C+soy+Jos%C3%A9+P%C3%A9rez;Full+Stack+Software+Developer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Desarrollador de software Full Stack</h3>
+<h3 align="center">Mis redes</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joseprzdev-c05" target="_blank">
