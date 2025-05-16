@@ -132,10 +132,13 @@ Puedes explorar mis distintos repositorios en donde he desarrollado múltiples p
 ### 📈 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Perezcortes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perezcortes&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Perezcortes&show_icons=true&theme=merko" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perezcortes&layout=compact&theme=merko" />
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Perezcortes&theme=tokyonight" />
+</p>
 
 <p align="center">Gracias por visitar mi perfil 🙌</p>
