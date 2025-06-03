@@ -34,10 +34,19 @@
 
 ### 🧠 Sobre mí
 
-Soy desarrollador de software con pasión por el desarrollo **Full Stack** y también me enfoco en el diseño de experiencias de usuario (**UX/UI**). Siempre busco equilibrar la funcionalidad con la estética para crear interfaces intuitivas y agradables. Me encanta aprender constantemente y aplicar buenas prácticas de desarrollo.
+Soy estudiante de Ingeniería en Computación y desarrollador de software apasionado por el desarrollo **Full Stack**, enfocado en crear soluciones robustas, escalables y centradas en la experiencia del usuario. Tengo experiencia aplicando arquitecturas como **MVC** y **microservicios**, desarrollando desde la lógica backend hasta interfaces limpias y responsivas.
+
+También me gusta implementar buenas prácticas como **Clean Code**, modelado con **UML** y uso de **Scrum** como metodología ágil. Siempre estoy buscando aprender algo nuevo o mejorar algún proceso.
 
 ---
 
+### 🌐 Portafolio en desarrollo
+
+Actualmente estoy trabajando en el desarrollo de mi sitio web personal donde podrás conocer más sobre mis proyectos, experiencia y enfoque de desarrollo.
+
+📍 **Muy pronto en:** `https://joseprz.dev` 🚀
+
+---
 ### 🎯 Tecnologías que uso
 
 #### 💻 Lenguajes de Programación
@@ -88,6 +97,7 @@ Soy desarrollador de software con pasión por el desarrollo **Full Stack** y tam
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://www.phpmyadmin.net/static/images/logo-og.png" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" />
 </p>
 
@@ -125,7 +135,9 @@ Soy desarrollador de software con pasión por el desarrollo **Full Stack** y tam
 
 ### 💼 Algunos proyectos
 
-Puedes explorar mis distintos repositorios en donde he desarrollado múltiples proyectos donde pongo en práctica todas las tecnologías mencionadas, incluyendo integración de APIs REST y GraphQL, autenticación, CRUDs completos, paneles administrativos, y despliegue con Docker.
+Puedes explorar mis distintos repositorios, que incluyen proyectos académicos y personales donde practico y consolido conocimientos Full Stack. He trabajado en integración de APIs REST y GraphQL, implementación de autenticación con **JWT**, hasheo seguro de contraseñas, desarrollo de CRUDs completos, paneles administrativos responsivos, y pruebas de conceptos con despliegue en **servicios de AWS**.
+
+También he colaborado en proyectos en equipo, revisando y aprobando *pull requests* de mis compañeros como parte del flujo de trabajo en Git, y he utilizado **Docker** para levantar contenedores con tecnologías como **Alpine**, **Ubuntu**, **MySQL**, **phpMyAdmin**, **Apache**, **PHP** y **Node.js**.
 
 ---
 
