@@ -40,11 +40,11 @@ También me gusta implementar buenas prácticas como **Clean Code**, modelado co
 
 ---
 
-### 🌐 Portafolio en desarrollo
+### 🌐 Portafolio
 
 Mi sitio web personal donde podrás conocer más sobre mis proyectos, experiencia y enfoque de desarrollo.
 
-📍 **Ya disponible!:** <a href="https://joseperez-dev.vercel.app/"> 🚀
+📍 **Ya disponible:** [joseperez-dev.vercel.app 🚀](https://joseperez-dev.vercel.app/)
 
 ---
 ### 🎯 Tecnologías que uso
