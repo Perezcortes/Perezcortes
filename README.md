@@ -42,9 +42,9 @@ También me gusta implementar buenas prácticas como **Clean Code**, modelado co
 
 ### 🌐 Portafolio en desarrollo
 
-Actualmente estoy trabajando en el desarrollo de mi sitio web personal donde podrás conocer más sobre mis proyectos, experiencia y enfoque de desarrollo.
+Mi sitio web personal donde podrás conocer más sobre mis proyectos, experiencia y enfoque de desarrollo.
 
-📍 **Muy pronto en:** `https://joseprz.dev` 🚀
+📍 **Ya disponible!:** `https://joseperez-dev.vercel.app/` 🚀
 
 ---
 ### 🎯 Tecnologías que uso
