@@ -44,7 +44,7 @@ También me gusta implementar buenas prácticas como **Clean Code**, modelado co
 
 Mi sitio web personal donde podrás conocer más sobre mis proyectos, experiencia y enfoque de desarrollo.
 
-📍 **Ya disponible!:** `https://joseperez-dev.vercel.app/` 🚀
+📍 **Ya disponible!:** <a href="https://joseperez-dev.vercel.app/"> 🚀
 
 ---
 ### 🎯 Tecnologías que uso
