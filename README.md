@@ -22,6 +22,11 @@
   </a>
 </p>
 
+
+### 💼 Experiencia Profesional
+Desarrollador Full Stack - Póliza de Rentas
+Medio tiempo | Actualmente
+
 ---
 
 ### 🏆 Trofeos de GitHub
