@@ -33,7 +33,7 @@ Medio tiempo | Actualmente
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=Perezcortes&theme=dracula&row=1&column=9&margin-w=10&margin-h=10" 
+    src="https://github-profile-trophy.vercel.app/?username=Perezcortes&theme=dracula&row=1&column=9&margin-w=10&margin-h=15" 
     alt="Trofeos de GitHub" 
     style="max-width: 100%;" 
   />
