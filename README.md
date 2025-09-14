@@ -39,6 +39,12 @@ Medio tiempo | Actualmente
   />
 </p>
 
+### 📈 Mi actividad en GitHub 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=perezcortes&theme=dracula&area=true&hide_border=true" alt="GitHub activity graph" />
+</p>
+
 ---
 
 ### 🧠 Sobre mí
