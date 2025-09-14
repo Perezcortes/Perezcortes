@@ -32,7 +32,11 @@ Medio tiempo | Actualmente
 ### 🏆 Trofeos de GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Perezcortes&theme=tokyonight" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Perezcortes&theme=dracula&row=1&column=9&margin-w=10&margin-h=10" 
+    alt="Trofeos de GitHub" 
+    style="max-width: 100%;" 
+  />
 </p>
 
 ---
