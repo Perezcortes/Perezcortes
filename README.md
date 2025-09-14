@@ -95,7 +95,7 @@ Mi sitio web personal donde podrás conocer más sobre mis proyectos, experienci
 #### 🔧 Backend
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-3.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
 </p>
@@ -103,7 +103,7 @@ Mi sitio web personal donde podrás conocer más sobre mis proyectos, experienci
 #### 🗃️ Bases de Datos
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://www.phpmyadmin.net/static/images/logo-og.png" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
@@ -113,7 +113,7 @@ Mi sitio web personal donde podrás conocer más sobre mis proyectos, experienci
 #### 🚀 DevOps / Contenedores
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
 </p>
 
@@ -121,7 +121,7 @@ Mi sitio web personal donde podrás conocer más sobre mis proyectos, experienci
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" width="40" alt="Sourcetree logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
 </p>
