@@ -23,7 +23,7 @@
 </p>
 
 
-### 💼 Experiencia Profesional
+### Experiencia Profesional
 Desarrollador Full Stack - Póliza de Rentas
 Medio tiempo | Actualmente
 
@@ -39,7 +39,7 @@ Medio tiempo | Actualmente
   />
 </p>
 
-### 📈 Mi actividad en GitHub 
+### Mi actividad en GitHub 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=perezcortes&theme=dracula&area=true&hide_border=true" alt="GitHub activity graph" />
@@ -62,7 +62,7 @@ Mi sitio web personal donde podrás conocer más sobre mis proyectos, experienci
 📍 **Ya disponible:** [joseperez-dev.vercel.app 🚀](https://joseperez-dev.vercel.app/)
 
 ---
-### 🎯 Tecnologías que uso
+### Tecnologías que uso
 
 #### 💻 Lenguajes de Programación
 
@@ -156,7 +156,7 @@ También he colaborado en proyectos en equipo, revisando y aprobando *pull reque
 
 ---
 
-### 📈 Estadísticas
+### Estadísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Perezcortes&show_icons=true&theme=merko" />
