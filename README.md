@@ -30,21 +30,9 @@ https://polizaderentas.com/
 
 ---
 
-### 🏆 Trofeos de GitHub
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Perezcortes&theme=dracula&row=1&column=9&margin-w=10&margin-h=15" 
-    alt="Trofeos de GitHub" 
-    style="max-width: 100%;" 
-  />
-</p>
-
 ### Mi actividad en GitHub 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=perezcortes&theme=dracula&area=true&hide_border=true" alt="GitHub activity graph" />
-</p>
+![Estadísticas](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Perezcortes&theme=dracula)
 
 ---
 
