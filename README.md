@@ -34,7 +34,9 @@ https://polizaderentas.com/
 
 ### Mi actividad en GitHub 
 
-![Estadísticas](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Perezcortes&theme=dracula)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Perezcortes&theme=dracula" alt="Estadísticas" />
+</div>
 
 ---
 
